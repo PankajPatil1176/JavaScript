@@ -10,3 +10,5 @@ Degital Clock - https://pankajpatil1176.github.io/Digital-clock/
 <br>
 Rock-Paper-Scissor - https://pankajpatil1176.github.io/Rock-Paper-Scissor/
 <br>
+Number Guessing - https://pankajpatil1176.github.io/Number-Guessing-game/
+<br>
