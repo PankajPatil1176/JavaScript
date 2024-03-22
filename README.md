@@ -6,3 +6,5 @@ About : The Add Movies Project is about adding movies list and we can provide na
 Myntra Clone - https://pankajpatil1176.github.io/Myntra/
 <br>
 Weather app - https://pankajpatil1176.github.io/Weather-app/
+<br>
+Degital Clock - https://pankajpatil1176.github.io/Digital-clock/
