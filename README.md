@@ -8,3 +8,5 @@ Weather app - https://pankajpatil1176.github.io/Weather-app/
 <br>
 Degital Clock - https://pankajpatil1176.github.io/Digital-clock/
 <br>
+Rock-Paper-Scissor - https://pankajpatil1176.github.io/Rock-Paper-Scissor/
+<br>
